@@ -1,0 +1,83 @@
+const help = (prefix) => { 
+	return `
+╭══─⊱  ⸨ 𝐼𝑁𝐹𝑂 ⸩  ⊰─══╮
+║
+┣╾⊱ * XPTN BOT*
+┣╾⊱ *9.0*
+┣╾⊱ *VERSION : TERMUX*
+┣╾⊱ *wa.me/6289655478810*
+┣╾⊱ *THANKS TO :*
+┣━━━━[ *RIZKY* ]━━━━━
+┣━━━━[ *CALIPH* ]━━━━
+┣━━━━[ *ALPHA* ]━━━━━
+║
+╰══─⊱  ⸨ 𝑅𝐼𝑍𝐾𝑌 ⸩  ⊰─══╯
+
+            𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
+▬▭▬▭▬▭▬▭▬▭▬▭▬
+●⧐ *Spam : Auto Block!*
+  ●⧐ *Beri Jeda 5detik Penggunaan!*
+    ●⧐ *Bug/Error Harap Cht Owner!*
+  ●⧐ *Harap Sabar Dengan Bug²nya!*
+●⧐ *Gunakan Bot Sebaik-baiknya!*
+▬▭▬▭▬▭▬▭▬▭▬▭▬
+               𝐁𝐲 - 𝐑𝐈𝐙𝐊𝐘
+            𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
+▬▭▬▭▬▭▬▭▬▭▬▭▬
+●⧐ *Spam : Auto Block!*
+  ●⧐ *Beri Jeda 5detik Saat Menggunakannya!!*
+    ●⧐ *Bug/Error Harap Cht Owner!*
+  ●⧐ *Harap Sabar Dengan Bug²nya!*
+●⧐ *Gunakan Bot Sebaik-baiknya!*
+▬▭▬▭▬▭▬▭▬▭▬▭▬
+               𝐁𝐲 - 𝐑𝐢𝐳𝐤𝐲
+▣═─⊱【 𝑴𝑬𝑵𝑼 𝑺𝑰𝑴𝑷𝑳𝑬 】⊰─══
+║
+╰─⊱ 
+   |─⊱ *${prefix}listmenu*
+╭─⊱
+║
+▣═─⊱【 𝐿𝐼𝑆𝑇 𝑀𝐸𝑁𝑈 】⊰─══
+║
+╰─⊱ *${prefix}ownermenu*
+╭─⊱ *${prefix}adminmenu*
+  |─⊱ *${prefix}nsfwmenu*
+  |─⊱ *${prefix}funmenu*
+  |─⊱ *${prefix}mediamenu*
+  |─⊱ *${prefix} makermenu*
+  |─⊱ *${prefix}vipmenu [KHUSUS VIP!!]*
+  |─⊱ *${prefix}kerangmenu*
+╰─⊱ *${prefix}animemenu*
+╭─⊱ *${prefix}othermenu*
+║
+▣═══─⊱【 𝑂𝑇𝐻𝐸𝑅 】⊰─═══
+║
+╰─⊱ *${prefix}request [teksmu*
+╭─⊱ *${prefix}setprefix*
+  |─⊱ *${prefix}bugreport [teksmu]*
+  |─⊱ *${prefix}listblock*
+  |─⊱ *${prefix}iklan*
+  |─⊱ *${prefix}runtime*
+  |─⊱ *${prefix}info*
+  |─⊱ *${prefix}rules*
+  |─⊱ *${prefix}tnc*
+  |─⊱ *${prefix}cekvip*
+  |─⊱ *${prefix}daftarvip*
+  |─⊱ *${prefix}addvip*
+  |─⊱ *${prefix}dellvip*
+  |─⊱ *${prefix}snk*
+  |─⊱ *${prefix}rizkyadmin*
+  |─⊱ *${prefix}rizkygroup*
+  |─⊱ *${prefix}listpremium*
+  |─⊱ *${prefix}donate*
+╰─⊱ *${prefix}ping*
+╭─⊱ *${prefix}owner*
+║
+▣══─⊱ 【 𝑅𝑈𝑁𝑇𝐼𝑀𝐸 】 ⊰─══
+║
+╰─⊱ *STATUS BOT: Online*
+╭─⊱ BOT ON: *TERGANTUNG OWNER*
+║
+▣══─ ⸨ 𝙍𝙞𝙯𝙠𝙮 𝘽𝙊𝙏𝙒𝘼 ⸩ ─══▣`
+}
+exports.help = help
