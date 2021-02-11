@@ -3,7 +3,7 @@ let { spawn } = require('child_process')
 let path = require('path')
 let fs = require('fs')
 const CFonts  = require('cfonts')
-CFonts.say('TERMUX WHATSAPP BOT', {
+CFonts.say('Yanzz Official', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
