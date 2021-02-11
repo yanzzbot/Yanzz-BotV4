@@ -84,8 +84,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╰═══════════════
 
 ╭════•›「 Rules 」
-╿• Telpon/VC = BAN
-╿• Spam = BAN
+╿• Telpon/VC = Block
+╿• Spam = Block
 ╰═══════════════
 
 %readmore`
