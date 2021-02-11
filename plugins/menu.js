@@ -79,6 +79,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭════•›「 Sosmed 」
 ╿ Github :
 ╿ https://github.com/yanzzbot/Yanzz-BotV4
+╿ owner : wa.me/6281803522862
 ╿ Youtube : Yanzz Official
 ╿ Instagram : @_zxuan54
 ╰═══════════════
