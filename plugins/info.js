@@ -6,7 +6,7 @@ Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 Rec: Yanzz Offiicial
 Script: @Nurotomo
 Github: 
-https://github.com/yanzzbot/Yanzz-BotV3
+https://github.com/yanzzbot/Yanzz-BotV4
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
