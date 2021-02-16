@@ -87,6 +87,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭════•›「 Rules 」
 ╿• Telpon/VC = Block
 ╿• Spam = Block
+╿• Ingin Berdonasi? ketik #donasi
+╿• mohon bersabar jika bot tidak merespon
+╿• Powered By @iMIKU BOT
 ╰═══════════════
 
 %readmore`
